@@ -1,5 +1,4 @@
 Hello World!
-I just a free software.
 THREE
 happy
 chees
